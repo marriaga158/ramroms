@@ -8,4 +8,8 @@ This uses the Z: drive letter by default, and attempts to format it as part of d
 
 If someone wants to create versions for other OSes, feel free. If there's enough interest, I might make it. Idk.
 
-If you need to contact me, I'm kelp6063 on Discord and marriaga158 on Twitter
+If you need to contact me, I'm kelp6063 on Discord and marriaga158 on Twitter.
+
+### Releases
+
+Nothing yet. Still under development.
